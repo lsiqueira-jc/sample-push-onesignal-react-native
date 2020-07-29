@@ -8,3 +8,7 @@
 4. atualize o YOUR_ONESIGNAL_APP_ID em App.js
 5. yarn install
 6. yarn run android
+
+**Exemplo em node para envio de push**
+
+[Enviando push a partir do node](https://github.com/lsiqueira-jc/sample-envio-push-onesignal-node)
