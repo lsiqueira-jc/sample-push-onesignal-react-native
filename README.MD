@@ -11,4 +11,4 @@
 
 **Exemplo em node para envio de push**
 
-[Enviando push a partir do node](https://github.com/lsiqueira-jc/sample-envio-push-onesignal-node)
+- [Enviando push a partir do node](https://github.com/lsiqueira-jc/sample-envio-push-onesignal-node)
